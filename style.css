@@ -2,8 +2,8 @@
          background:#D35400  ;
          margin:0px;
       }
-      p{
-        padding-top:10%;
+      .centerthistext{
+        padding-top:5%;
         color: wheat;
         font-size: 3em;
         font-weight: bold;

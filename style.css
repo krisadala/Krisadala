@@ -30,7 +30,7 @@
      #ban{
             width:100%;
             height:75vh;
-            background:url("./work.jpg");
+            background:url("./work.jpg")linear-gradient(rgba(145, 79, 79, 0.45),rgba(255, 0, 0, 0.45)),url(./yourimage);
             background-size:cover;
       }
      #man{

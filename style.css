@@ -3,7 +3,8 @@
          margin:0px;
       }
       p{
-        color: wheat;
+        padding:10px
+            color: wheat;
         font-size: 3em;
         font-weight: bold;
         text-align: center;
